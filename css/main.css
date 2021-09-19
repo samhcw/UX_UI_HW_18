@@ -152,6 +152,41 @@ h3{
     background-position: center;
 }
 
+.UXSkills {
+    background-color: #d6d6d6;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding-top: 5%;
+    color:#000000;
+}
+
+.research {
+    background-image: url("/images/userresearch.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #F9F9F9;
+}
+
+.UID {
+    background-image: url("/images/UI.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #F9F9F9;
+}
+
+.web {
+    background-image: url("/images/coding.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #F9F9F9;
+}
+
 .footer {
     display: flex;
     justify-content: center;
